@@ -1,7 +1,6 @@
 
 
 
-local VisualsGroupBox = Tabs.Combat:AddRightGroupbox('ESP Visuals')
 
 --> ESP <--
 
